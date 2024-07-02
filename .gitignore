@@ -1,10 +1,8 @@
-# dependencies
+# Dependencies
 node_modules/
 
-# build output
+# Other exclusions as needed
 dist/
 build/
-
-# misc
 .DS_Store
 .env
